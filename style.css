@@ -1,0 +1,18 @@
+.quote{
+    background-color: #F1C27B;
+    font-family: 'Fasthand', cursive;
+    margin-top: 100px;
+    font-size: 48px;
+    color: #FFFF;
+    border-radius: 3px;
+    
+}
+.btn{
+    background-color: #FFD89C;
+}
+.btn:hover{
+    background-color: #FFD89C;
+}
+h2,h3{
+    font-family: 'Fasthand', cursive;
+}
